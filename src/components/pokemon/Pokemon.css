@@ -1,0 +1,8 @@
+.card {
+  margin: 15px;
+}
+
+.card-img-top {
+  min-height: 198px;
+  line-height: 198px;
+}

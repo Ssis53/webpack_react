@@ -1,0 +1,14 @@
+#home {
+  height: 5000px;
+}
+
+#home .container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.main {
+  margin-top: 30px;
+  text-align: center;
+}
